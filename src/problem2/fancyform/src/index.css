@@ -1,0 +1,17 @@
+:root {
+	--accent: #e2fca4;
+	--primary: #e0e0e0;
+	--dark: #222222;
+	--dark-variant: #4c4c4c;
+	--background: #193b4d;
+	--error: #f44336;
+}
+
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: var(--background);
+	color: var(--accent);
+}

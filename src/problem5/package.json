@@ -1,0 +1,19 @@
+{
+  "name": "problem5",
+  "version": "1.0.0",
+  "description": "Deploy a utility EVM contract with a function to retrieve all token balances given a wallet address and the token contract addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
